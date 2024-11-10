@@ -1,0 +1,53 @@
+@font-face {
+    font-family: 'doto';
+    src: url('doto.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    
+
+}
+h1 {
+    font-size: 500%;   
+}
+
+.heading {
+	display: flex;
+	justify-content: center;
+    margin:  auto;
+    color:  white;
+    /*margin-bottom: 20px;*/
+}
+.menu-container {
+	display: flex;
+	justify-content: center;
+	font-family: 'doto';
+
+}
+
+
+.menu-item {
+	display: flex;
+	padding:  10px;
+
+}
+
+* {
+  /*outline: 2px solid red;*/
+  background: black;
+  color: white;
+  font-family: 'doto';
+}
+
+
+a:link { 
+  text-decoration: none; 
+} 
+a:visited { 
+  text-decoration: none; 
+} 
+a:hover { 
+  text-decoration: none; 
+} 
+a:active { 
+  text-decoration: none; 
+}
