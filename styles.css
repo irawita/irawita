@@ -6,6 +6,10 @@
     
 
 }
+.page-wrapper {
+  margin-left: 15%;
+  margin-right: 15%;
+}
 h1 {
     font-size: 500%;   
 }
@@ -38,7 +42,20 @@ h1 {
   font-family: 'doto';
 }
 
+.site-footer {
+  display: flex;
+  justify-content: center;
+  text-align:  center;
+  margin:  auto;
+  position: fixed;
+  bottom: 0; 
+  font-size: 0.8em;
+}
 
+.audio {
+  display:  flex;
+  justify-content: center;
+}
 a:link { 
   text-decoration: none; 
 } 
