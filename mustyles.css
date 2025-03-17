@@ -1,0 +1,125 @@
+@font-face {
+    font-family: 'doto';
+    src: url('doto.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.page-wrapper {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+h1 {
+    font-size: 300%;
+}
+
+.heading {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    color: white;
+}
+
+.menu-container {
+    display: flex;
+    justify-content: center;
+    font-family: 'doto';
+}
+
+.menu-item {
+    display: flex;
+    padding: 10px;
+}
+
+* {
+    background: black;
+    color: white;
+    font-family: 'doto';
+}
+
+.site-footer {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+    position: fixed;
+    bottom: 0;
+    font-size: 0.8em;
+}
+
+.audio {
+    display: flex;
+    justify-content: center;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+/*------ Settings ------*/
+.pp {
+    --color: black;
+    --size: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    cursor: pointer;
+    font-size: var(--size);
+    user-select: none;
+    fill: var(--color);
+  }
+  
+  .pp .play {
+    position: absolute;
+    animation: keyframes-fill 0.3s;
+  }
+  
+  .pp .pause {
+    position: absolute;
+    display: none;
+    animation: keyframes-fill 0.3s;
+  }
+  
+  /* ------ On check event ------ */
+  .pp input:checked ~ .play {
+    display: none;
+  }
+  
+  .pp input:checked ~ .pause {
+    display: block;
+  }
+  
+  /* ------ Hide the default checkbox ------ */
+  .pp input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+    height: 0;
+    width: 0;
+  }
+  
+  /* ------ Animation ------ */
+  @keyframes keyframes-fill {
+    0% {
+      transform: scale(0.5);
+      opacity: 0;
+    }
+  
+    50% {
+      transform: scale(1.1);
+    }
+  }
+  

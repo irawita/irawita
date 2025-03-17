@@ -16,12 +16,26 @@
             <span class = "menu-item"><a href="radio.html">Radio</a></span>    
             <span class = "menu-item"><a href="gallery.html">Gallery</a></span>
             <span class = "menu-item"><a href="about.html">About</a></span>    
+            <span class = "menu-item"><a href="music.html">Music</a></span>
         </div>
 
-        <h3>    This site is under construction, you may come back in the following weeks or save my RSS feed for updates.</h3>
+        <h3>    Welcome to Aditya Tiwari's website. </h3>
 
         <div class = "site-footer"><footer>All rights waived: You are free to use, modify, and share the content of this site without any restrictions, unless otherwise specified. </footer> </div>
     </div>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const menuItems = document.querySelectorAll('.menu-item');
+            menuItems.forEach(item => {
+                item.addEventListener('mouseover', function() {
+                    this.style.backgroundColor = '#333';
+                });
+                item.addEventListener('mouseout', function() {
+                    this.style.backgroundColor = '';
+                });
+            });
+        });
+    </script>
     </body>
 
 </html>
