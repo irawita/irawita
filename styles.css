@@ -37,6 +37,7 @@ h1 {
 
 * {
   /*outline: 2px solid red;*/
+  font-size: 32px;
   background: black;
   color: white;
   font-family: 'doto';
