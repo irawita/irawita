@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Grid vs Inline-Grid</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      padding: 2rem;
+    }
+
+    .grid-container {
+      display: grid;
+      grid-template-columns: repeat(3, 50px);
+      gap: 10px;
+      background-color: #f0f0f0;
+      padding: 10px;
+      margin-bottom: 2rem;
+    }
+
+    .inline-grid-container {
+      display: inline-grid;
+      grid-template-columns: repeat(3, 20px);
+      gap: 5px;
+      background-color: #e0f7fa;
+      padding: 5px;
+      vertical-align: middle;
+    }
+
+    .box {
+      background-color: #4caf50;
+      color: white;
+      text-align: center;
+      padding: 5px 0;
+    }
+  </style>
+</head>
+<body>
+  <h2>Block-level Grid (display: grid)</h2>
+  <div class="grid-container">
+    <div class="box">1</div>
+    <div class="box">2</div>
+    <div class="box">3</div>
+    <div class="box">4</div>
+    <div class="box">5</div>
+    <div class="box">6</div>
+  </div>
+
+  <h2>Inline-level Grid (display: inline-grid)</h2>
+  <p>This is a sentence with an <span class="inline-grid-container">
+    <span class="box">A</span>
+    <span class="box">B</span>like
+    <span class="box">C</span>
+  </span> inline grid embedded within it.</p>
+</body>
+</html>
