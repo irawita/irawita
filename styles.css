@@ -28,7 +28,9 @@ h1 {
 
 }
 
-
+h3 {
+  font-size: 150%;   
+}
 .menu-item {
 	display: flex;
 	padding:  10px;
@@ -37,7 +39,7 @@ h1 {
 
 * {
   /*outline: 2px solid red;*/
-  font-size: 32px;
+  font-size: 24px;
   background: black;
   color: white;
   font-family: 'doto';

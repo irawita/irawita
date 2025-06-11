@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'Helvetica';
+    src: url('../fonts/Helvetica.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    
+
+}
+
+* {
+   font-family: 'Courier', serif;
+   color: #C9C8C7;
+   font-weight: lighter;
+}
+
+h3, h5 {
+    color: white;
+}
+
+h3 {
+    font-size: 200%;
+}
+h5 {
+    font-size: 120%;
+}
