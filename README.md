@@ -1,1 +1,1 @@
-## My site is up (and incomplete) at adityatiwari.xyz
+## My site is up at adityatiwari.xyz
