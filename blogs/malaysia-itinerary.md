@@ -30,7 +30,7 @@ Kuala Lumpur is a nice place.
 
 ### Live Fact
 
-I pulled up on a Sunday, so there's a lot of music I ended up missing out on. I did find this place called Live Fact, which is a little studio/venue in Petaling Jaya. It's pretty intimate, and appears to be the spot for the local shoegaze scene. I got to see Commemorate's album showcase, opened by Aurum, Feral and Suur. Pedal-laced walls of sound do get pretty repetitive (especially for a show that goes on for over 3 hours), but I suppose that isn't really news. Good vibes, nice people, and solid music. There didn't appear to be a kitchen or anything in there (there was some kind of pantry but I wouldn't really call the place a diner) so don't go on an empty stomach. 
+I pulled up to KL on a Sunday, so there's a lot of music I ended up missing out on. I did find this place called Live Fact, which is a little studio/venue in Petaling Jaya. It's pretty intimate, and appears to be the spot for the local shoegaze scene. I got to see Commemorate's album showcase, opened by Aurum, Feral and Suur. Pedal-laced walls of sound do get pretty repetitive (especially for a show that goes on for over 3 hours), but I suppose that isn't really news. Good vibes, nice people, and solid music. There didn't appear to be a kitchen or anything in there (there was some kind of pantry but I wouldn't really call the place a diner) so don't go on an empty stomach. 
 
 ### Amcorp Mall
 
@@ -54,8 +54,28 @@ This museum is in walking distance of the butterfly park (matter of fact, most o
 
 ### Petai Balalang
 
-Full-house grindcore on a Tuesday fucking night. Small scene venue where everyone knows everyone. I have accepted that we Asians cannot mosh. Saw Tools and _.  This place also doesn't serve anything (they have an amateurish drinks counter much like Live Fact), so go with a full stomach or bring whatever you want with you.  
+Full-house grindcore on a Tuesday fucking night. Small scene venue where everyone knows everyone. I have accepted that we Asians cannot mosh. Saw Tools and _.  This place also doesn't serve anything (they have an amateurish drinks counter much like Live Fact), so go with a full stomach or bring whatever you want with you.  Sovl place, make sure to drop by. 
+
+### Guru Nanak Darbar Tatt Khalsa Diwan Gurdwara
+
+It's a pretty nice Gurudwara. Kirtan is at 6.30am and 7pm (not sure about the latter). They don't serve Langar on Wednesdays, and that's when I visited. There isn't a lot more to say about the place, I suppose. The nearby area is interesting to walk through. 
+
+
+
+I intend to visit KL again, so I'll keep updating this. Flights are cheap, and you don't need a visa. The city is thoughtfully built and pleasant to walk through. 
+
+
+
+## Places I didn't visit but seem cool
+
+Let me know if you visit these, even better if you can write a few details. 
 
 ### Cash Converters
+
+Chain used goods store. Had I a little more time to plan my trip, I'd have had a list of audio equipment I wanted to score. 
+
+### REXKL
+
+Hipster art venue. 
 
 ![](/home/irawita/.config/marktext/images/2025-06-24-05-45-00-image.png)
